@@ -77,7 +77,7 @@ const MeetKombatSection = () => {
             className="text-4xl md:text-6xl font-bold text-white mb-6"
           >
             Alhaji Bala Bello 
-            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">Kombat</span>
+            <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-400">Tinka</span>
           </motion.h2>
           
           <motion.p
