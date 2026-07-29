@@ -170,14 +170,14 @@ const ContactSection = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'officialkombatcampaigns@gmail.com',
+      value: 'BBTcampaigns@gmail.com',
       description: 'Response within 24hrs'
     },
     {
       icon: MapPin,
       title: 'Office',
       value: 'Campaign Headquarters',
-      description: 'Abuja, Nigeria'
+      description: 'Gommbe, Nigeria'
     }
   ];
 
