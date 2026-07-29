@@ -70,7 +70,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-lg">KC</span>
               </div>
               <div>
-                <h2 className="text-2xl font-bold">Engr. Aliyu Muhammed Kombat</h2>
+                <h2 className="text-2xl font-bold">Alhaji Bala Bello Tinka</h2>
                 <p className="text-blue-300">Building Tomorrow Together</p>
               </div>
             </div>
@@ -162,7 +162,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center space-x-3">
               <Mail className="w-5 h-5 text-blue-400" />
-              <span className="text-gray-300">officialkombatcampaigns@gmail.com</span>
+              <span className="text-gray-300">tinkacampaigns@gmail.com</span>
             </div>
           </div>
         </motion.div>
@@ -178,7 +178,7 @@ const Footer = () => {
               transition={{ duration: 0.6 }}
               className="text-gray-300 text-sm"
             >
-              © 2024 Engr. Aliyu Muhammed Kombat Campaign. All rights reserved.
+              © 2024 Alhaji Bala Bello Tinka Campaign. All rights reserved.
             </motion.p>
             <motion.p
               initial={{ opacity: 0 }}
