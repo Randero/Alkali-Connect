@@ -77,7 +77,7 @@ const AboutSection = () => {
                 transition={{ delay: 0.4, duration: 0.6 }}
                 className="text-lg text-gray-600 mb-8 leading-relaxed"
               >
-                Engr. Aliyu Muhammed Kombat brings decades of engineering excellence and community leadership 
+                Alhaji Bala Bello Tinka brings decades of engineering excellence and community leadership 
                 to serve the people. With a proven track record of delivering results and a vision for 
                 sustainable development, he's ready to engineer a better future for all.
               </motion.p>
@@ -148,7 +148,7 @@ const AboutSection = () => {
                   transition={{ delay: 1.2, duration: 0.6 }}
                   className="absolute bottom-6 left-6 bg-white/95 backdrop-blur-sm p-4 rounded-2xl shadow-xl"
                 >
-                  <div className="text-2xl font-bold text-green-600">₦80B+</div>
+                  <div className="text-2xl font-bold text-green-600">₦100B+</div>
                   <div className="text-sm text-gray-600">Projects Delivered</div>
                 </motion.div>
               </div>
